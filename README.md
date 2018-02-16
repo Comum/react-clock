@@ -1,9 +1,9 @@
-REACT TODO LIST
+REACT CLOCK
 =================
 
 ## Description
 
-Simple todo list app
+Simple clock app
 
 ## Install
 
